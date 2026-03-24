@@ -16,4 +16,4 @@ ressonância magnética (RM) de baixo campo, em ambiente de laboratório.
 - Estrutura e conteúdos sujeitos a alterações
 
 ## Observação
-Este repositório é de uso acadêmico e está configurado como privado.
+Este repositório é de uso acadêmico e pode ter sua visibilidade alterada conforme o andamento do projeto.
